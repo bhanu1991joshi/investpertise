@@ -1,0 +1,251 @@
+body{
+	background:#;
+	font-family: "proximanova-regular-webfont";
+	text-align:justify;
+}
+@font-face{
+    font-family: "proximanova-regular-webfont";
+    src: url('proximanova/proximanova-regular-webfont.ttf');
+}
+@font-face{
+    font-family: "proximanova-bold-webfont";
+    src: url('proximanova/proximanova-bold-webfont.ttf');
+}
+p{
+	
+	text-align:;
+}
+#rotated_div{
+	background:#fff;
+	visibility:hidden;
+	top:200px;
+	left:-450px;
+	position:fixed;
+	width:70%;
+	z-index:10000;
+	transform:rotate(-90deg);
+}
+#rotated_div a{
+	color:#000;
+	margin-left:20px;
+}
+.navbar{
+	background:#000 !important;
+	padding:7px;
+	border:0;
+	
+}
+.navbar img{
+	height:50px;
+	border-radius:;
+}
+.navbar a{
+	color:#eee !important;
+	font-size:15px;
+	margin-left:10px;
+}
+.welcome-div{
+	position:fixed;
+	margin-top:-41%;
+}
+a{
+	text-decoration:none !important;
+}
+.links{
+	padding-top:15px;
+}
+.links span{
+	font-size:30px;
+	color:#fff;
+}
+.links a{
+	color:#fff;
+	margin:0px 20px;
+	
+}
+.banner{
+	padding:1% 10%;
+}
+.banner h2{
+	color:#222;
+	font-family: "proximanova-bold-webfont";
+}
+h2,h3,h4,h5,h6,h1{
+	font-family: "proximanova-bold-webfont";	
+}
+.button{
+	background:#fff;
+	color:#222;
+	padding:15px 25px;
+	border:1px solid #222;
+	border-radius:5px;
+}
+.footer a{
+	color:#eee;
+	margin-left:5%;
+	
+}
+.footer{
+	background:#000;
+	margin-top:0px;
+	padding:1%;
+}
+.founder_advisor{
+	padding:5%;
+}
+.images-content{
+	padding:5%;
+	border:1px solid #ddd;
+	overflow:hidden;
+}
+.images-content img{
+	height:200px;
+width:150px;
+}
+.tablee td,th{
+	padding:5px;
+}
+.tablee{
+	
+}
+
+.tablee1 td{
+	padding:5px;
+}
+
+#input-form-advisor input{
+	width:300px;
+}
+#input-form-advisor select{
+	width:200px;
+}
+#input-form-advisor input,select{
+	border-radius:5px;
+	border:1px solid #ddd;
+	padding:8px 10px;
+}
+#input-form-advisor,#input-form-startups,#input-form-founder{
+	display:none;
+}
+
+#input-form-startups input[type="text"]{
+	width:300px;
+}
+#input-form-startups select{
+	width:250px;
+}
+#input-form-startups input,select{
+	border-radius:5px;
+	border:1px solid #ddd;
+	padding:8px 10px;
+}
+
+#input-form-founder input{
+	width:300px;
+}
+
+#input-form-founder select{
+	width:200px;
+}
+#input-form-founder input,select{
+	border-radius:5px;
+	border:1px solid #ddd;
+	padding:8px 10px;
+}
+.tab-1 a{
+	color:#222;
+}
+.active > a{
+	background:#222 !important;
+	color:#fff !important;
+}
+.login_form h2{
+	font-size:35px;
+}
+.login_form input{
+	padding:7px 10px;
+	width:100%;
+}
+.login_form td{
+	padding:10px;
+	width:400px;
+}
+.reg_form h2{
+	font-size:30px;
+	font-weight:bold;
+}
+.reg_form input{
+	padding:7px 10px;
+	width:40%;
+}
+.reg_form td{
+	padding:10px;
+	
+}
+.content div{
+	margin-top:20px;
+}
+.content img{
+	height:200px;
+
+}
+.content table td{
+	padding:10px 20px;		
+}	
+.content .tabl td{
+	padding:10px 0px;		
+}
+.content input{
+	padding:5px 8px;
+	width:185%;
+}
+.set_pass td{
+	padding:5px 10px;
+}
+.set_pass input[type="password"]{
+	padding:5px 10px;
+	width:30%;
+}
+.sub1,.sub2,.sub3,.sub4,.sub5,.sub6,.sub7,.sub8,.sub9,.sub10{
+	display:none;
+}
+.com1,.com2,.com3{
+	display:none;
+}
+.com1 input,.com2 input,.com3 input{
+	padding:5px 10px;
+}
+.com1 td,.com2 td,.com3 td{
+	padding:5px 10px;
+}
+.select_name{
+	margin-top:40px;
+}
+.select_name select{
+	width:40%;
+}
+.personal_bio{
+	padding:2% 10%;
+}
+.con_fond select{
+	width:200px;
+}
+.img_found img{
+	height:200px;
+	width:200px;
+	margin:10px;
+}
+.temp_advisor td{
+	padding-left:30px;
+}
+#nav_tabs li a{
+	background:#fff !important;
+	color:#222 !important;
+	font-size:20px;
+}
+#active1 > a{
+	background:#fff !important;
+	color:#222 !important;
+	font-size:20px;
+	
+}
